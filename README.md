@@ -1,4 +1,5 @@
-This effort was just started and the repository is under development!  Welcome -yingbull
+This effort was just started and the repository is under development!  Welcome!
+Right now there are some infrastructure/architecture approaches I wish to look at, and validate the automated security/dependency alerts of various severities I am seeing.  As such I am setting the code branch to "experimental" to properly convey the current state of this forked development. - michael yingbull
 
 Introduction
 ============
